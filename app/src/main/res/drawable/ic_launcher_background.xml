@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Deep futuristic background -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Gradient accent circle -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,14 A40,40 0 1 0 54,94 A40,40 0 1 0 54,14 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,20 A34,34 0 1 0 54,88 A34,34 0 1 0 54,20 Z"
+        android:strokeWidth="1.2"
+        android:strokeColor="#2563EB" />
+    <!-- Subtle digital grid accents -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M24,54 L84,54 M54,24 L54,84"
+        android:strokeWidth="0.8"
+        android:strokeColor="#1E3A8A" />
+</vector>

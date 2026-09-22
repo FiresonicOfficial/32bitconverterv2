@@ -1,0 +1,6 @@
+{
+  "name": "ARM32 Runner",
+  "description": "Compatibility layer and sandboxed environment to run 32-bit games and APKs on 64-bit-only Android systems",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
